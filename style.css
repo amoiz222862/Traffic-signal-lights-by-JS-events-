@@ -1,0 +1,60 @@
+/* signal task css */
+
+body{
+    background-color: black;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.signal{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.signal>h3{
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+   
+    
+}
+
+.btn1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: white;
+    border: none;
+   
+}
+
+.btn2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-left: 20px;
+    background-color: white;
+    border: none;
+}
+
+.btn3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-left: 20px;
+    background-color: white;
+    border: none;
+}
